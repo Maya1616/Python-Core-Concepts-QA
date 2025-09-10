@@ -3,14 +3,17 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maya1616/Python-Core-Concepts-QA/blob/main/Files_Exception_Handling_Logging_and_Memory_Management_Questions_with_Answers.ipynb)
+
 This repository hosts a single, comprehensive Google Colab notebook: **`Files, Exception Handling, Logging and Memory Management Questions with Answers.ipynb`**.
 
 This notebook is a practical playbook designed to help developers master error handling, file I/O, logging strategies, and memory management in Python. It's a one-stop solution for anyone preparing for a technical interview or looking to write more robust and efficient code.
 
+---
 ## ✨ Overview
 
 Instead of just a simple Q&A list, this notebook breaks down complex concepts into understandable, executable code cells. It covers both the **"why" (Theoretical Concepts)** and the **"how" (Practical Implementations)** of crucial Python topics, all within a single, well-organized file.
 
+---
 ## 🧠 Topics Covered
 
 The notebook is divided into two main sections, both contained within the same file:
@@ -30,18 +33,21 @@ The notebook is divided into two main sections, both contained within the same f
 - ⚙️ **System Interaction:** Using the `os` module for file system operations like checking for a file's existence.
 - 📊 **Performance:** Demonstrating how to use `cProfile` for basic memory and performance profiling.
 
+---
 ## 🚀 Getting Started
 
 No setup is required! The entire project is self-contained in the Google Colab notebook.
 
-1.  **Click the "Open in Colab" badge** at the top of this README.
-2.  The notebook will open directly in your browser.
-3.  Run the cells interactively to see the code, explanations, and output for each question.
+1.  **Click the "Open in Colab" badge** at the top of this README.
+2.  The notebook will open directly in your browser.
+3.  Run the cells interactively to see the code, explanations, and output for each question.
 
+---
 ## 🤝 Contribution
 
 Contributions are welcome! If you have a better solution, find a typo, or want to add more questions, feel free to create a pull request or open an issue.
 
+---
 ## 📜 License
 
 This project is licensed under the MIT License.
