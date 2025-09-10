@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maya1616/Python-Core-Concepts-QA/blob/main/Files_Exception_Handling_Logging_and_Memory_Management_Questions_with_Answers.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maya1616/Python-Core-Concepts-QA/blob/main/Files%2C_Exception_Handling_Logging_and_Memory_Management_Questions_with_Answers.ipynb)
 
 This repository hosts a single, comprehensive Google Colab notebook: **`Files, Exception Handling, Logging and Memory Management Questions with Answers.ipynb`**.
 
